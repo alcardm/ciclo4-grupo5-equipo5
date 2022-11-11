@@ -6,8 +6,7 @@ Presentamos la propuesta para el desarrollo de una plataforma web de una lavande
 
 ## Integrantes del equipo
 
-- María Angélica Gómez Ladino, G. proyecto.
-- Alberto Cárdenas, G. bases de datos.
-- Jacson Andrés Burgos Pinilla, Desarrollador frontend.
-- Luis Armando Cadena, Desarrolaldor backend.
-- William Mosquera, Tester.
+- María Angélica Gómez Ladino, Gestora proyecto / Tester.
+- Luis Armando Cadena, Gestor de bases de datos.
+- Alberto Cárdenas, Desarrollador frontend.
+- William Mosquera, Desarrolaldor backend.

@@ -7,7 +7,7 @@ export default class inicio  extends React.Component {
     }
     render() { 
         return (
-            <h1 style={{marginTop: 300}}> <br/> Pagina de Inicio </h1>
+            <h1 style={{marginTop: 300}}> <br/> Renta de Lavadoras </h1>
         );
     }
 }

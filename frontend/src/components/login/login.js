@@ -36,7 +36,7 @@ export default class login extends React.Component {
             Path: "/",
             expires: calculaExtraccionSesion(),
           });
-          this.props.history.push(window.open('/empleados'));
+          this.props.history.push(window.open("/empleados"));
         }
         this.setState({ loading: false });
       })

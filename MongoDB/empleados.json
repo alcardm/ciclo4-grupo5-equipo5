@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6354579e5269dc7e06585841"
+  },
+  "nombre": "William Andres",
+  "apellido_p": "Mosquera",
+  "apellido_m": "Vela",
+  "telefono": "3183352832",
+  "mail": "wmosquerave@uniminuto.edu.co",
+  "direccion": "Calle 158 # 96 a 77",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d6c0c2d583405245fd7a5"
+  },
+  "nombre": "Katherine",
+  "apellido_p": "Velasquez",
+  "apellido_m": "Pedroza",
+  "telefono": "3118908934",
+  "mail": "Katherinvepe@gmail.com",
+  "direccion": "Chapinero",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d6c8b2d583405245fd7a6"
+  },
+  "nombre": "Ana",
+  "apellido_p": "Maria",
+  "apellido_m": "Mosquera",
+  "telefono": "3142310083",
+  "mail": "anavela@gmail.com",
+  "direccion": "Suba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d8af5427cbea6293d5e16"
+  },
+  "nombre": "Andres",
+  "apellido_p": "Mosquera",
+  "apellido_m": "Vela",
+  "telefono": "3013538023",
+  "mail": "wmosquerave12@gmail.com",
+  "direccion": "Calle 137 # 137 A 12",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e9c4ba7519dbd2e6f58a7"
+  },
+  "nombre": "Bryan",
+  "apellido_p": "Cruz",
+  "apellido_m": "Cruz",
+  "telefono": "3103015099",
+  "mail": "bryancruz1995@gmail.com",
+  "direccion": "Barrios Unidos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637eb4e2a7519dbd2e6f58d6"
+  },
+  "nombre": "test",
+  "apellido_p": "test",
+  "apellido_m": "test",
+  "telefono": "0",
+  "mail": "test",
+  "direccion": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637eb5bfa7519dbd2e6f58da"
+  },
+  "nombre": "test1",
+  "apellido_p": "test1",
+  "apellido_m": "test1",
+  "telefono": "0",
+  "mail": "test1",
+  "direccion": "test1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637eb9dea7519dbd2e6f58ee"
+  },
+  "nombre": "test3",
+  "apellido_p": "test3",
+  "apellido_m": "test3",
+  "telefono": "0",
+  "mail": "test3",
+  "direccion": "test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637eba3ba7519dbd2e6f58f2"
+  },
+  "nombre": "test4",
+  "apellido_p": "test4",
+  "apellido_m": "test4",
+  "telefono": "0",
+  "mail": "test4",
+  "direccion": "test4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637eca5ba7519dbd2e6f594c"
+  },
+  "nombre": "Sneider",
+  "apellido_p": "Mintic",
+  "apellido_m": "ciclo",
+  "telefono": "4",
+  "mail": "sneider@gmail.com",
+  "direccion": "bogota",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638005c5091dfb029bfad6c2"
+  },
+  "nombre": "test5",
+  "apellido_p": "test5",
+  "apellido_m": "test5",
+  "telefono": "0",
+  "mail": "test5",
+  "direccion": "test5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380115e091dfb029bfad6cb"
+  },
+  "nombre": "Carlos",
+  "apellido_p": "Tovar",
+  "apellido_m": "Tovar",
+  "telefono": "3122227848",
+  "mail": "Carlostovar@gmail.com",
+  "direccion": "MINTIC",
+  "__v": 0
+}]

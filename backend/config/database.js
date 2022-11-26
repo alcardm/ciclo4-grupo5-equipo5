@@ -13,6 +13,6 @@ exports.mongoConnect = () => {
   const dbConnection = mongoose.connection;
   dbConnection.on(
     "error",
-    console.error.bind(console, "Mongodb connection error")
+    console.error.bind(console, "MongoDB connection error")
   );
 };
